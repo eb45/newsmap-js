@@ -16,6 +16,7 @@ Follow the steps below to get it running locally. Due to [CORS](https://develope
 
         git clone https://github.com/IJMacD/newsmap-js.git
         cd newsmap-js
+        git pull origin master
         npm install
         
 2. Run development server
