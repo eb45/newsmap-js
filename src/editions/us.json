@@ -1,10 +1,10 @@
 {
-  "technology": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
-  "world": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
-  "science": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
-  "health": "CAAqIggKIhxDQkFTRHdvSkwyMHZNREZqY0hsNUVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen",
-  "entertainment": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
-  "business": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
-  "nation": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US:en",
-  "sports": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"
+  "technology": "5G&hl=en-US&gl=US&ceid=US%3Aen",
+  "world": "world&hl=en-US&gl=US&ceid=US%3Aen",
+  "science": "science&hl=en-US&gl=US&ceid=US%3Aen",
+  "health": "health&hl=en-US&gl=US&ceid=US%3Aen",
+  "entertainment": "entertainment&hl=en-US&gl=US&ceid=US%3Aen",
+  "business": "business&hl=en-US&gl=US&ceid=US%3Aen",
+  "nation": "nation&hl=en-US&gl=US&ceid=US%3Aen",
+  "sports": "basketball&hl=en-US&gl=US&ceid=US%3Aen"
 }
