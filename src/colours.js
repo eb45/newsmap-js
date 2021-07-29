@@ -2,7 +2,7 @@ export const originalColours = {
   "world":          "#ffc7c7",
   "nation":         "#ffea78",
   "business":       "#b0ff8f",
-  "world":     "#04db7e",
+  "technology":     "#04db7e",
   "sports":         "#80caff",
   "entertainment":  "#bfa6ff",
   "health":         "#ffadf4",
