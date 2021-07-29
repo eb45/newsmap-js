@@ -6,7 +6,7 @@ export const originalColours = {
   "sports":         "#80caff",
   "entertainment":  "#bfa6ff",
   "drones":         "#ffadf4",
-  "system on chip":        "#6b3ea8",
+  "SoC":        "#6b3ea8",
 };
 
 export const primaryColours = {
