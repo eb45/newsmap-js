@@ -18,8 +18,8 @@ export function getNews (options) {
 
     const urls = require(`./editions/${ed}.json`);
     const path = urls[options.category.toLowerCase()];
+    console.log(path);
 
-    console.log("GOT URLS AND PATH");
     if (!edition) {
         throw Error("Invalid Edition");
     }
@@ -29,7 +29,6 @@ export function getNews (options) {
     }
     return xmlFetch(`${API_ROOT}/rss/${path}`)
         .then(/** @param {document} data */ data => {
-            console.log("IT WORKED");
             const items = Array.from(data.getElementsByTagName("item"))
                 .map(itemEl => {
                     const titleEl = itemEl.getElementsByTagName("title")[0];
