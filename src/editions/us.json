@@ -1,3 +1,10 @@
 {
   "technology": "search?q=5G",
+  "world": "search?q=world",
+  "science": "search?q=science",
+  "health": "search?q=health",
+  "entertainment": "search?q=entertainment",
+  "business": "search?q=business",
+  "nation": "search?q=nation",
+  "sports": "search?q=sports"
 }
