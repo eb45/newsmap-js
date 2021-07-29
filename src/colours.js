@@ -1,5 +1,5 @@
 export const originalColours = {
-  "world":          "#ffc7c7",
+  "iot":          "#ffc7c7",
   "nation":         "#ffea78",
   "business":       "#b0ff8f",
   "fiveg":     "#04db7e",
