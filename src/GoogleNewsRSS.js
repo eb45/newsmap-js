@@ -27,8 +27,8 @@ export function getNews (options) {
         throw Error("Can't find URL for edition/category");
     }
     return xmlFetch(`${API_ROOT}/rss/${path}`)
-        console.log("IT WORKED");
         .then(/** @param {document} data */ data => {
+            console.log("IT WORKED");
             const items = Array.from(data.getElementsByTagName("item"))
                 .map(itemEl => {
                     const titleEl = itemEl.getElementsByTagName("title")[0];
