@@ -48,7 +48,7 @@ class App extends Component {
     const defaultState = {
       categories: [],
       selectedCategories: availableCategories,
-      selectedEditions: ["uk"],
+      selectedEditions: ["us"],
       mode: "tree",
       showImages: false,
       palette: "default",
