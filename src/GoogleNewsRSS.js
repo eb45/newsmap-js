@@ -19,6 +19,7 @@ export function getNews (options) {
     const urls = require(`./editions/${ed}.json`);
     const path = urls[options.category.toLowerCase()];
 
+    console.log("GOT URLS AND PATH");
     if (!edition) {
         throw Error("Invalid Edition");
     }
