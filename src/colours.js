@@ -1,12 +1,12 @@
 export const originalColours = {
-  "world":          "#9c1f1f",
-  "nation":         "#9c891f",
-  "business":       "#449c1f",
-  "technology":     "#1f9c66",
-  "sports":         "#1f689c",
-  "entertainment":  "#421f9c",
-  "health":         "#9c1f8b",
-  "science":        "#68429c",
+  "world":          "#ffc7c7",
+  "nation":         "#ffea78",
+  "business":       "#b0ff8f",
+  "technology":     "#04db7e",
+  "sports":         "#80caff",
+  "entertainment":  "#bfa6ff",
+  "health":         "#ffadf4",
+  "science":        "#6b3ea8",
 };
 
 export const primaryColours = {
