@@ -136,6 +136,25 @@ class App extends Component {
 
     return (
       <header className="App-header">
+	    
+	    <head>
+	    <style>
+		.button {
+  		background-color: #4CAF50;
+		  border: none;
+		  color: white;
+		  padding: 15px 32px;
+		  text-align: center;
+		  text-decoration: none;
+		  display: inline-block;
+		  font-size: 16px;
+		  margin: 4px 2px;
+		  cursor: pointer;
+		}
+		</style>
+	    </head>
+	    
+	    
         <div style={{ flex: 1 }}>
           <h1 className="App-title"><a href="https://newsmap.ijmacd.com">Emerging Technology News Map</a></h1>
           <p className="App-intro">
@@ -143,8 +162,8 @@ class App extends Component {
             Forked from <a href="https://github.com/ijmacd/newsmap-js">IJMacD</a>.
           </p>
         </div>
-        <div>
-          <button style={{ margin: 8 }} onClick={() => this.setState({ showOptions: true })}>Options</button>
+        <div>  
+	<button class="button" style={{ margin: 8 }} onClick={() => this.setState({ showOptions: true })}>Options</button>
           <button style={{ margin: 8 }} onClick={() => this.ref && requestFullscreen(this.ref)}>Fullscreen</button>
         </div>
         <div className="App-category-chooser">
