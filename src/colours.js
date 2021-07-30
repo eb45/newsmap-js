@@ -6,7 +6,8 @@ export const originalColours = {
   "secure-iaas":    "#ADD8E6",
   "artificial-intelligence": "#ff4a4a",
   "cubesats": "#fffb82",
-  "microgrid": "#2e8fff"
+  "microgrid": "#2e8fff",
+  "smart-city": "#66fff0"
 };
 
 export default originalColours;
