@@ -3,7 +3,8 @@ export const originalColours = {
   "fifth-generation":     "#04db7e",
   "system-on-chip":         "#ffadf4",
   "drones":        "#6b3ea8",
-  "secure-iaas":    "#ADD8E6"
+  "secure-iaas":    "#ADD8E6",
+  "artificial-intelligence": "#ff4a4a"
 };
 
 export default originalColours;
