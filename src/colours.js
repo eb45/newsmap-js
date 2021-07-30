@@ -5,7 +5,8 @@ export const originalColours = {
   "drones":        "#6b3ea8",
   "secure-iaas":    "#ADD8E6",
   "artificial-intelligence": "#ff4a4a",
-  "cubesats": "#fffb82"
+  "cubesats": "#fffb82",
+  "microgrid": "#2e8fff"
 };
 
 export default originalColours;
