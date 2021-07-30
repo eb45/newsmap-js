@@ -4,7 +4,8 @@ export const originalColours = {
   "system-on-chip":         "#ffadf4",
   "drones":        "#6b3ea8",
   "secure-iaas":    "#ADD8E6",
-  "artificial-intelligence": "#ff4a4a"
+  "artificial-intelligence": "#ff4a4a",
+  "cubesats": "#fffb82"
 };
 
 export default originalColours;
