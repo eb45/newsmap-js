@@ -137,11 +137,10 @@ class App extends Component {
     return (
       <header className="App-header">
         <div style={{ flex: 1 }}>
-          <h1 className="App-title"><a href="https://newsmap.ijmacd.com">NewsMap.JS</a></h1>
+          <h1 className="App-title"><a href="https://newsmap.ijmacd.com">Emerging Technology News Map</a></h1>
           <p className="App-intro">
             Data from <a href="https://news.google.com">Google News</a>.
-            Inspried by <a href="http://newsmap.jp">newsmap.jp</a>.
-            Fork me on <a href="https://github.com/ijmacd/newsmap-js">GitHub</a>.
+            Forked from <a href="https://github.com/ijmacd/newsmap-js">ijmacd.jp</a>.
           </p>
         </div>
         <div>
